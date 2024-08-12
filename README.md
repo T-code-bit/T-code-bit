@@ -8,14 +8,14 @@
   <a href="https://github.com/khrlmstfa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'VE+FOUND+PEACE+IN+DEBUGGING;SPECIALISED+IN+PROGRAMMING+AND+CODING;WELCOME+TO+TRIBAL+EMPIRE;LONG+LIVE+THE+CLAN&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">𝐈 𝐚𝐦 𝐊𝐞𝐢𝐭𝐡 𝐓𝐞𝐜𝐡 𝐩𝐚𝐥.</h4>
+<h4 align="center"> I'm TRIBAL, Welcome To The Technological World Where Everything Is Possible</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=keithkeizzah&label=Profile%20views&color=0e75b6&style=plastic" alt="keithkeizzah" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=T-code-bit&label=Profile%20views&color=0e75b6&style=plastic" alt="T-code-bit" /> </p>
 
 
 
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=keithkeizzah&theme=algolia" alt="keithkeizzah"  /></p>
+## Streak Stats 
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=T-code-bit&theme=algolia" alt="T-code-bit"  /></p>
 
 <p align="left"> 
 
@@ -32,14 +32,14 @@
 
 ------
 
-### 📊 Github Stats (Expand to View) 
+### Github Statistics (Expand to View) 
 
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
-    <a href="https://github.com/keithkeizzah/github-readme-stats"><img alt="keithkeizzah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=keithkeizzah&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  <p align="left">
+    <a href="https://github.com/T-code-bit/github-readme-stats"><img alt="T-code-bit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=T-code-bit&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eabdalmufid&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eabdalmufid" height="192px"/>
@@ -51,29 +51,28 @@
 
 </details>
 
-<p align="center">
+<p align="left">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
 </p>
 
-### 🎧 Spotify Playing
+### Your Music Buddy-Spotify Is Playing
 
-<p align="center">
+<p align="left">
   <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
-### 🙋‍♀️ Let's Connect
-<p align="center">
-	<a href="https://github.com/keithkeizzah/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+### Let's Connect on Github
+<p align="left">
+	<a href="https://github.com/T-code-bit/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	
 </p>
 
 
 
-* Credit: Keith Keizzah
-* Last Edited on: 25/05/2024
+* Credit: TRIBAL TECH HUB
+* Last Edited on: 01/08/2024
 
 
 
 
-[![keithkeizzah GitHub stats](https://github-readme-stats.vercel.app/api?username=keithkeizzah&show_icons=true&theme=radical)](https://github.com/keithkeizzah)
+[![T-code-bit GitHub stats](https://github-readme-stats.vercel.app/api?username=T-code-bit&show_icons=true&theme=radical)](https://github.com/T-code-bit)
