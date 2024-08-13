@@ -57,9 +57,9 @@
 
 ### Your Music Buddy-Spotify Is Playing
 
-<p align="left">
-  <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
+<div align="left">
+  <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
+</div>
 
 ### Let's Connect on Github
 <p align="left">
