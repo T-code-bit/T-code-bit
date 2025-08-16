@@ -1,77 +1,81 @@
-## TRIBAL
+<!-- Cyberpunk / Neon Profile README -->
 
-<h1 align="center"> HEY THERE WELCOME TO TRIBAL PROFILE </h1>
-<p align="center">
-<img src="https://i.imgur.com/R9Fva2U.jpeg" width="600" height="650"/
+<h1 align="center">
+  <span style="background: linear-gradient(90deg,#ff00cc,#3333ff); 
+               -webkit-background-clip: text; 
+               -webkit-text-fill-color: transparent;
+               font-size: 60px; 
+               font-weight: bold;">
+    ⚡ TRIBAL EMPIRE ⚡
+  </span>
+</h1>
 
 <p align="center">
-  <a href="https://github.com/khrlmstfa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'VE+FOUND+PEACE+IN+DEBUGGING;SPECIALISED+IN+PROGRAMMING+AND+CODING;WELCOME+TO+TRIBAL+EMPIRE;LONG+LIVE+THE+CLAN&center=true&width=500&height=50"></a>
+  <img src="https://i.imgur.com/R9Fva2U.jpeg" width="500" height="550" style="border-radius:20px; box-shadow:0 0 30px #00ffff;"/>
 </p>
-<hr/>
-<h4 align="center"> I'm TRIBAL, Welcome To The Technological World Where Everything Is Possible</h4>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=T-code-bit&label=Profile%20views&color=0e75b6&style=plastic" alt="T-code-bit" /> </p>
 
-
-## Streak Stats 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=T-code-bit&theme=algolia" alt="T-code-bit"  /></p>
-
-<p align="left"> 
-
-
-   
-   <a href="https://wa.me/254782662427"><img width="83" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png">
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+<p align="center">
+  <a href="https://github.com/khrlmstfa/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I'VE+FOUND+PEACE+IN+DEBUGGING;SPECIALISED+IN+PROGRAMMING+AND+CODING;WELCOME+TO+TRIBAL+EMPIRE;LONG+LIVE+THE+CLAN&center=true&width=600&height=50&color=00ffff&vCenter=true">
   </a>
-
 </p>
 
+---
 
+<h3 align="center">
+  <span style="color:#39ff14;">🌐 Welcome to the Technological World Where Everything Is Possible 🚀</span>
+</h3>
 
-------
-
-### Github Statistics (Expand to View) 
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="left">
-    <a href="https://github.com/T-code-bit/github-readme-stats"><img alt="T-code-bit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=T-code-bit&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eabdalmufid&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eabdalmufid" height="192px"/>
-  <br/>
-<br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-</details>
-
-<p align="left">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=T-code-bit&label=VISITORS&color=ff00ff&style=for-the-badge" />
 </p>
 
-### Your Music Buddy-Spotify Is Playing
+---
 
-<div align="left">
-  <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
-</div>
+## 🚀 Streak & Stats (Cyberpunk Mode)
 
-### Let's Connect on Github
-<p align="left">
-	<a href="https://github.com/T-code-bit/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=T-code-bit&theme=highcontrast&hide_border=true&background=000000&ring=ff00ff&fire=39ff14&currStreakLabel=00ffff" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=T-code-bit&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=000000&title_color=ff00ff&icon_color=39ff14&text_color=00ffff" width="49%"/>
 </p>
 
+---
 
+## 🐍 Contribution Snake  
 
-* Credit: TRIBAL TECH HUB
-* Last Edited on: 01/08/2024
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="700" style="filter: drop-shadow(0 0 20px #00ffff);" />
+</p>
 
+---
 
+## 🎶 Spotify – What I'm Listening To  
 
+<p align="center">
+  <a href="https://open.spotify.com/user/your_spotify_username">
+    <img src="https://spotify-now-playing.vercel.app/api/spotify?background_color=000000&text_color=00ffff&cover_image=true&layout=compact" alt="Spotify Now Playing" width="450"/>
+  </a>
+</p>
 
-[![T-code-bit GitHub stats](https://github-readme-stats.vercel.app/api?username=T-code-bit&show_icons=true&theme=radical)](https://github.com/T-code-bit)
+---
+
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="https://wa.me/254782662427">
+    <img src="https://img.shields.io/badge/WhatsApp-00ff00?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://github.com/T-code-bit/">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ffff"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  </a>
+</p>
+
+---
+
+## 📡 Baileys (Latest WhatsApp API)
+
+```bash
+npm install @whiskeysockets/baileys
