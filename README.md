@@ -116,9 +116,9 @@ Access Granted ✔
 
 ## 📡 CONTACT
 <p align="center">
-  <a href="mailto:tribal.empire.cyberpunk@gmail.com"><img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="khoolkheed@gmail.com"><img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/T-code-bit"><img src="https://img.shields.io/badge/GitHub-39ff14?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://t.me/Tcodebit"><img src="https://img.shields.io/badge/Telegram-00ffff?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/The_Choosen_001"><img src="https://img.shields.io/badge/Telegram-00ffff?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 ---
