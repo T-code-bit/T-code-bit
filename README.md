@@ -1,4 +1,4 @@
-<!-- ⚡ TRIBAL CYBERPUNK README 3.0 ⚡ -->
+<!-- ⚡ TRIBAL CYBERPUNK README 3.1 ⚡ -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,100:00ffff&height=120&section=header&text=TRIBAL%20EMPIRE%20⚡&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Tribal Empire Banner"/>
@@ -10,17 +10,6 @@
 
 <p align="center">
   <img src="https://i.imgur.com/R9Fva2U.jpeg" alt="Tribal Empire Cyberpunk Avatar" width="400" style="border-radius:20px; box-shadow:0 0 40px #39ff14;"/>
-</p>
-
----
-
-## 🛠️ NAVIGATION PANEL
-<p align="center">
-  <a href="#-system-status"><img src="https://img.shields.io/badge/🖥️-System%20Status-39ff14?style=flat-square&labelColor=0d1117"/></a>
-  <a href="#-command-center"><img src="https://img.shields.io/badge/⚡-Command%20Center-00ffff?style=flat-square&labelColor=0d1117"/></a>
-  <a href="#-logs"><img src="https://img.shields.io/badge/📜-Logs-ff00ff?style=flat-square&labelColor=0d1117"/></a>
-  <a href="#-neon-shields"><img src="https://img.shields.io/badge/🛡️-Shields-39ff14?style=flat-square&labelColor=0d1117"/></a>
-  <a href="#-contact"><img src="https://img.shields.io/badge/📡-Contact-00ffff?style=flat-square&labelColor=0d1117"/></a>
 </p>
 
 ---
