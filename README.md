@@ -39,9 +39,9 @@ Access Granted ✔
 
 <p align="center">
   <img src="https://img.shields.io/badge/VISITORS-1000+-ff00ff?style=flat-square&logo=github"/>
-  <img src="https://komarev.com/ghpvc/?username=TRIBAL&label=Live%20Counter&color=ff00ff&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/TRIBAL?label=Followers&logo=github&style=flat-square&color=00ffff"/>
-  <img src="https://img.shields.io/github/stars/TRIBAL?label=Stars&logo=github&style=flat-square&color=39ff14"/>
+  <img src="https://komarev.com/ghpvc/?username=T-code-bit&label=Live%20Counter&color=ff00ff&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/T-code-bit?label=Followers&logo=github&style=flat-square&color=00ffff"/>
+  <img src="https://img.shields.io/github/stars/T-code-bit?label=Stars&logo=github&style=flat-square&color=39ff14"/>
 </p>
 
 
@@ -54,8 +54,8 @@ Access Granted ✔
 ## 📊 SYSTEM MONITOR
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=T-code-bit&theme=tokyonight&hide_border=true&background=0d1117&ring=ff00ff&fire=39ff14&currStreakLabel=00ffff" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=T-code-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=00ffff&text_color=ff00ff" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=T-code-bit&theme=dark&hide_border=true&background=0d1117&ring=ff00ff&fire=39ff14&currStreakLabel=00ffff" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=T-code-bit&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=00ffff&text_color=ff00ff" width="48%"/>
 </p>
 
 <p align="center">
@@ -116,7 +116,7 @@ Access Granted ✔
 
 ## 📡 CONTACT
 <p align="center">
-  <a href="khoolkheed@gmail.com"><img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:khoolkheed@gmail.com"><img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/T-code-bit"><img src="https://img.shields.io/badge/GitHub-39ff14?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://t.me/The_Choosen_001"><img src="https://img.shields.io/badge/Telegram-00ffff?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
