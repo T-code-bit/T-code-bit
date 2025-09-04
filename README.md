@@ -105,7 +105,7 @@ POWER LEVEL: OVER 9000
 ## 🔥 ACTIVE MISSION LOG
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=T-code-bit&theme=merko&hide_border=false&background=000000&ring=ff1493&fire=ff4500&currStreakLabel=ff0000&border=ff0000&stroke=ff1493&sideLabels=ff4500&dates=ff1493&sideNums=ff4500" />
+  <img src="https://streak-stats.demolab.com?user=T-code-bit&theme=cyberpunk&hide_border=false&background=000000&ring=ff1493&fire=ff4500&currStreakLabel=ff0000&border=ff0000&stroke=ff1493&sideLabels=ff4500&dates=ff1493&sideNums=ff4500" />
 </div>
 
 ### 🚀 CURRENT OPERATIONS:
