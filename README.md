@@ -96,9 +96,17 @@ POWER LEVEL: OVER 9000
 ## 📊 SUPREME COMBAT STATISTICS
 
 <div align="center">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=T-code-bit&show_icons=true&theme=merko&include_all_commits=true&count_private=true&bg_color=000000&title_color=ff1493&text_color=ffffff&icon_color=ff4500&border_color=ff0000&border_radius=10" />
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-code-bit&layout=compact&theme=merko&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff1493&border_radius=10" />
+
+  <!-- GitHub Stats Card -->
+  <img height="220em" 
+       src="https://github-readme-stats.vercel.app/api?username=T-code-bit&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff00ff&text_color=39ff14&icon_color=00ffff&border_color=ff00ff&border_radius=15&ring_color=ff1493&hide_border=false" />
+
+  <!-- Top Languages Card -->
+  <img height="220em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-code-bit&layout=compact&bg_color=0d1117&title_color=39ff14&text_color=00ffff&border_color=ff00ff&border_radius=15&hide_border=false" />
+
 </div>
+
 
 ---
 
