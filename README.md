@@ -99,7 +99,7 @@
 ## 🔥 ACTIVE MISSION LOG
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Brian-Olela&theme=dark&hide_border=false&background=000000&ring=ff1493&fire=ff4500&currStreakLabel=ff0000&border=ff0000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=T-code-bit&theme=dark&hide_border=false&background=000000&ring=ff1493&fire=ff4500&currStreakLabel=ff0000&border=ff0000" />
 </div>
 
 ### 🚀 CURRENT OPERATIONS:
@@ -339,7 +339,7 @@ const aiOverlord = async (input) => {
 ## 📊 ACTIVITY TIMELINE
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brian-Olela&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-code-bit&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
