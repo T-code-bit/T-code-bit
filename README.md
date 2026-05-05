@@ -364,7 +364,7 @@ const aiOverlord = async (input) => {
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/©_2025_ULTIMATE_CYBERPUNK_HACKER_EMPIRE-ff1493?style=flat-square"/>
+  <img src="https://img.shields.io/badge/©_2026_ULTIMATE_CYBERPUNK_HACKER_EMPIRE-ff1493?style=flat-square"/>
   <img src="https://img.shields.io/badge/All_Rights_Digitally_Dominated-ff0000?style=flat-square"/>
   <img src="https://img.shields.io/badge/Made_with_♥_and_Quantum_Code-9400d3?style=flat-square"/>
 </p>
